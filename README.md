@@ -6,8 +6,10 @@
 ![image](https://user-images.githubusercontent.com/86397095/209670783-b3b2aa48-2344-4fde-8355-2f3fbb6a6478.png)
 
 
-- 랜덤 단어 생성 api사용\n
+- 랜덤 단어 생성 api사용
+
 http://random-word-api.herokuapp.com/home
 
-- axios CDN으로 api불러서 사용\n
+- axios CDN으로 api불러서 사용
+
 https://github.com/axios/axios
